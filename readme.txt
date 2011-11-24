@@ -14,6 +14,7 @@ If you do not wish to release the source of software you build using NServiceBus
 http://www.nservicebus.com/EULA.aspx
 
 test
+another test
 ============
 = Building =
 ============
